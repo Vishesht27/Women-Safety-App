@@ -9,12 +9,26 @@ The app is about safety/awareness & makes the user safe & confident.
 It is easy to use because of it's user friendly UI.
 
 
+
+## Screenshots
+<details>
+     <summary> Click to expand </summary>
+  
+  
+ Home Screen           |  Emergency Phone Numbers             | Login & register   |  
+:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/Vishesht27/Women-Safety-App/blob/main/Images/12.jpeg)|![](https://github.com/Vishesht27/Women-Safety-App/blob/main/Images/13.jpeg)|![](https://github.com/Vishesht27/Women-Safety-App/blob/main/Images/14.jpeg)|
+
+ </details>
+
+
+
 </br>
 
 ## :iphone: Salient Features:
 
 #### :telephone_receiver: Trigger Button -
-Press the volume up/down button for 5 seconds, this will send a message along with the location and a call to the registered mobile numbers.
+Press the volume up/down button for 5 seconds, this will send a message along with the location and a call to the registered mobile numbers
 
 #### :telephone: Helpline Numbers - 
 One-click access to helpline numbers like Women in distress, Domestic abuse, Police, student/child helpline, Ambulance.
