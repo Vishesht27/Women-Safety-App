@@ -26,7 +26,7 @@
         <activity android:name=".Registration"/>
         <activity android:name=".Login"/>
         <activity android:name=".HowToSwipe"/>
-        <activity android:name=".DeveloperByActivity" />
+
         <activity android:name=".TrigActivity" />
         <activity android:name=".helplineCall" />
         <activity android:name=".AddRelative" />

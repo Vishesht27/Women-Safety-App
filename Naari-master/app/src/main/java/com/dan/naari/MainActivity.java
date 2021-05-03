@@ -52,10 +52,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void developedBy(View v){
-        Intent i = new Intent(getApplicationContext(), DeveloperByActivity.class);
-        startActivity(i);
-    }
+
 
     public void HowTo(View v){
         Intent i = new Intent(getApplicationContext(), HowToSwipe.class);

@@ -19,9 +19,9 @@
             android:layout_marginLeft="20dp">
 
             <ImageView
-                android:layout_width="800dp"
+                android:layout_width="1600dp"
                 android:layout_height="90dp"
-                android:src="@drawable/iconname">
+                android:src="@drawable/female">
             </ImageView>
         </RelativeLayout>
 
@@ -172,41 +172,8 @@
             </androidx.cardview.widget.CardView>
 
 
-            //3
 
-            <androidx.cardview.widget.CardView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_columnWeight="1"
-                android:layout_rowWeight="1"
-                app:cardElevation="6dp"
-                app:cardCornerRadius="12dp"
-                android:layout_margin="12dp"
-                >
 
-                <LinearLayout
-                    android:orientation="vertical"
-                    android:padding="16dp"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:gravity="center">
-
-                    <ImageView
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:src="@drawable/developedby">
-                    </ImageView>
-
-                    <TextView
-                        android:layout_marginTop="12dp"
-                        android:textColor="@color/black"
-                        android:textSize="18sp"
-                        android:text="Developed By"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content">
-                    </TextView>
-                </LinearLayout>
-            </androidx.cardview.widget.CardView>
         </GridLayout>
     </LinearLayout>
 </ScrollView>
